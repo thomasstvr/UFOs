@@ -4,7 +4,6 @@ In this project we built a webpage which showcases a table of UFO sightings an a
 ## Results
 The webpage is clean and well laid out although the table is very large and therefor cumbersome to navigate. The contents of the table can be filtered by entering date, city, state, country, and shape. Not all of these parameters must be entered, you could filter on any combination you desire. 
 
-Picture example of filters 
+![]( https://github.com/thomasstvr/UFOs/blob/e6f543f860bfca6884cb2aba2aad913f8c10bbae/resources/everything.png)
 
-![](https://github.com/thomasstvr/UFOs/blob/main/unfiltered.png)
 
