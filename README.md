@@ -6,5 +6,5 @@ The webpage is clean and well laid out although the table is very large and ther
 
 Picture example of filters 
 
-![](https://github.com/thomasstvr/UFOs/blob/main/Resources/unfiltered.png)
+![](https://github.com/thomasstvr/UFOs/blob/main/unfiltered.png)
 
