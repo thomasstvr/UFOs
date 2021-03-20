@@ -6,4 +6,15 @@ The webpage is clean and well laid out although the table is very large and ther
 
 ![]( https://github.com/thomasstvr/UFOs/blob/e6f543f860bfca6884cb2aba2aad913f8c10bbae/resources/everything.png)
 
+![]( https://github.com/thomasstvr/UFOs/blob/e6f543f860bfca6884cb2aba2aad913f8c10bbae/resources/everything.png)
+
+![]( https://github.com/thomasstvr/UFOs/blob/e6f543f860bfca6884cb2aba2aad913f8c10bbae/resources/everything.png)
+
+![]( https://github.com/thomasstvr/UFOs/blob/e6f543f860bfca6884cb2aba2aad913f8c10bbae/resources/everything.png)
+
+
+## Summary
+One draw back to this page is the use (or lack thereof) of capitalization. The table data is in all lowercase (with some exceptions in the comments column). When searching for a state or city, all lowercase must be used in order for the search to return the desired results. This is something that should be addressed. Correct use of capitalization or not, the search filters should return the desired results.
+
+Another filter that should be added is Duration. With the current webpage, users cannot filter based on length of sighting which could be a valuable parameter. In order to accomplish this the Duration column would have to be made uniform in units or the filter be made to accommodate all types of entry. 
 
